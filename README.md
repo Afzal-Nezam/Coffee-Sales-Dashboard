@@ -1,3 +1,4 @@
+
 ☕ Coffee Sales Dashboard
 📌 About the Project
 The Coffee Sales Dashboard is a comprehensive data analytics project designed to analyze the sales performance of a coffee business. This project utilizes Excel for data cleaning and preparation, SQL for querying structured data, and Power BI for creating an interactive dashboard that presents insights clearly and effectively.
@@ -69,11 +70,15 @@ Regional Analysis: Heat maps and bar charts for region-wise performance
 
 Filters/Slicers: Time periods, products, and region selectors
 
-📬 Contact
-If you’d like to learn more about this project or collaborate, feel free to connect:
+📷 Preview
+    screenshots link here
 
-📧 Email: afzalnezam.com
+👉 https://github.com/Afzal-Nezam/Coffee-Sales-Dashboard/blob/main/Screenshot%202025-05-18%20033143.png
 
+
+
+
+📧 Email: afzalnezam@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/mohammad-a-25608a255/
 
-💻 GitHub: github.com/Afzal-Nezam
+💻 GitHub: https://github.com/Afzal-Nezam
